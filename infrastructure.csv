@@ -1,0 +1,9 @@
+asset_id,name,type,latitude,longitude,elevation,coast_distance,criticality
+H001,Coastal General Hospital,Hospital,19.0760,72.8777,8,6,5
+S001,Government School A,School,19.0820,72.8900,6,8,3
+B001,Coastal Bridge,Bridge,19.0900,72.8650,3,4,5
+P001,Power Substation,Power Station,19.0650,72.9000,5,7,5
+W001,Water Treatment Plant,Water Plant,19.0550,72.8700,4,5,5
+S002,Community School B,School,19.1000,72.9100,12,10,3
+H002,District Hospital B,Hospital,19.1100,72.9200,15,12,5
+B002,River Bridge,Bridge,19.1200,72.8500,2,3,5
